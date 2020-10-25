@@ -1,11 +1,13 @@
 <img alt="cover" src="cover.png" />
 
+<br />
+
 - 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about everything.
 - 🥅 2020/2021 Goals: become MERN stack developer.
 - ⚡ Fun fact: I love to walk and play Valorant and FIFA.
 
-<br />
+<hr />
 
 ### Languages and Tools:
 
@@ -20,11 +22,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<hr />
 
 ### Contact me:
 
 [<img align="left" alt="facebook" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img  align="left" alt="gmail" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<br />
+<hr />
 
 [facebook]: https://www.facebook.com/nediporicanin.nem
 [gmail]: nedop.1804@gmail.com
