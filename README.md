@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about everything.
-- 🥅 2020/2021 Goals: become MERN stack developer.
-- ⚡ Fun fact: I love to walk and play Valorant and FIFA.
-
+- 🥅 Goal: become MERN stack developer.
 <hr />
 
 ### Languages and Tools:
