@@ -2,8 +2,10 @@
 
 I'm Nedim Poricanin a Full Stack Web Developer and I spend most of time coding and learning.
 
-- 🌱 I’m currently learning ReactJS and unemployed.
-- 🥅 Goal: become full stack developer.
+- 🌱 I’m currently learning Socket.IO
+- 🔭 I’m currently unemployed
+- ⚡ Fun fact: I play games, mostly Valorant
+- 🥅 Goal: become full stack developer
 <br />
 <hr />
 
