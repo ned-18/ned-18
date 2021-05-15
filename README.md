@@ -4,7 +4,7 @@ I'm Nedim Poricanin a Full Stack Web Developer and I spend most of time coding a
 
 - 🌱 I’m currently learning Socket.IO and MongoDB
 - 🔭 I’m currently unemployed
-- ⚡ Fun fact: I play games, mostly Valorant
+- ⚡ I’m currently wokring on my new project -> "Bug tracker"
 - 🥅 Goal: become full stack developer
 
 ### Languages and Tools:
