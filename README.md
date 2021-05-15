@@ -18,6 +18,6 @@ I'm Nedim Poricanin a Full Stack Web Developer and I spend most of time coding a
 <br />
 <hr />
 
-![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=ned-18&theme=blue-green)
+![Github Badge]()
 
 [facebook]: https://www.facebook.com/nediporicanin.nem
