@@ -2,9 +2,9 @@
 
 I'm Nedim Poricanin a Full Stack Web Developer and I spend most of time coding and learning.
 
-- 🌱 I’m currently learning Socket.IO and MongoDB
+- 🌱 I’m currently learning Socket.IO
 - 🔭 I’m currently unemployed
-- ⚡ I’m currently wokring on my new project -> "Bug tracker"
+- ⚡ I’m currently working on my new project -> "Bug tracker"
 - 🥅 Goal: become full stack developer
 
 ### Languages and Tools:
