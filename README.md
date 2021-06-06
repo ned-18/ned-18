@@ -1,6 +1,6 @@
 ## Hi I'm Nedim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Nedim Poricanin a Junior Full Stack Web Developer and I spend most of time coding and learning.
+I'm Nedim Poricanin Junior Full Stack Web Developer and I spend most of time coding and learning.
 
 - 🌱 I’m currently learning Socket.IO
 - 🔭 I’m currently unemployed
