@@ -15,9 +15,11 @@ I'm Nedim Poricanin Junior Full Stack Web Developer and I spend most of time cod
 ### Contact me:
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nedop.1804@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 <br />
 <hr />
 
 ![Github Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=ned-18&theme=blue-green)
 
 [facebook]: https://www.facebook.com/nediporicanin.nem
+[linkedin]: https://www.linkedin.com/in/nedim-poricanin-b44221213/
