@@ -2,9 +2,8 @@
 
 I'm Nedim Poricanin Junior Full Stack Web Developer and I spend most of time coding and learning.
 
-- 🌱 I’m currently learning Socket.IO
 - 🔭 I’m currently unemployed
-- ⚡ I’m currently working on my new project -> "Bug tracker"
+- ⚡ I’m currently working on my new project -> "DiNero"
 - 🥅 Goal: become full stack developer
 
 ### Languages and Tools:
